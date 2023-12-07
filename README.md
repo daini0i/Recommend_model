@@ -1,1 +1,1 @@
-# Recommend_model
+# Similarity_model
